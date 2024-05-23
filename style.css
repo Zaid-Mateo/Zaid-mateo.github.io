@@ -1,0 +1,15 @@
+body{
+    font-style: normal;
+}
+h1{
+    color: aqua;
+}
+#menud{
+    background: green;
+     width: 400px;
+      height: 25px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
